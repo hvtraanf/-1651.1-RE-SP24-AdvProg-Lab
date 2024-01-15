@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hvtra\\OneDrive\\Documents\\AdvProgLab\\-1651.1-RE-SP24-AdvProg-Lab\\Lab02\\Lab02.csproj",
+      "projectUniqueName": "C:\\Users\\hvtra\\OneDrive\\Documents\\GitHub\\-1651.1-RE-SP24-AdvProg-Lab\\Lab02\\Lab02.csproj",
       "projectName": "Lab02",
-      "projectPath": "C:\\Users\\hvtra\\OneDrive\\Documents\\AdvProgLab\\-1651.1-RE-SP24-AdvProg-Lab\\Lab02\\Lab02.csproj",
+      "projectPath": "C:\\Users\\hvtra\\OneDrive\\Documents\\GitHub\\-1651.1-RE-SP24-AdvProg-Lab\\Lab02\\Lab02.csproj",
       "packagesPath": "C:\\Users\\hvtra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hvtra\\OneDrive\\Documents\\AdvProgLab\\-1651.1-RE-SP24-AdvProg-Lab\\Lab02\\obj\\",
+      "outputPath": "C:\\Users\\hvtra\\OneDrive\\Documents\\GitHub\\-1651.1-RE-SP24-AdvProg-Lab\\Lab02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
