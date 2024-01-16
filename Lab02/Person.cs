@@ -8,29 +8,18 @@ namespace Lab02
 {
     internal class Person
     {
-        private readonly string name;
-        private string address;
+        public readonly string Name;
+        public string Address { get; set; } 
 
-        public Person(string name, string address)
+        public Person(string name)
         {
-            this.name = name;
-            this.address = address;
+            this.Name = name;
         }
 
-        public string Name
-        {
-            get { return name; }
-        }
-
-        public string Address
-        {
-            get { return address; }
-            set { address = value; }
-        }
 
         public override string ToString()
         {
-            return $"Name: {name}, Address: {address}";
+            return "Name: " + Name + " Address: " + Address;
         }
     }
 }

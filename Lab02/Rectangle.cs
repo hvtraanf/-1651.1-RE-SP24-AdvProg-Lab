@@ -27,12 +27,12 @@ namespace Lab02
             this.Filled = filled;
         }
 
-        public double getArea()
+        public double GetArea()
         {
             return this.Width * this.Length;
         }
 
-        public double getPerimeter()
+        public double GetPerimeter()
         {
             return 2 * (this.Width + this.Length);
         }
